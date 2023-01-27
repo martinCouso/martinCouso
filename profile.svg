@@ -217,9 +217,15 @@
 <div class="card">
 <p class="cardTitle"><span class="cardIcon">&#174;</span>Technologies</p>
 <ul class="list">
-        {technologies.map((tech)=> (
-<li class="listItem" key={tech}> <span class="listItemText">{tech}</span></li>
-        ))}
+    <li class="listItem"> <span class="listItemText">JavaScript</span></li>
+    <li class="listItem"> <span class="listItemText">ReactJs NYC</span></li>
+    <li class="listItem"> <span class="listItemText">React Native</span></li>
+    <li class="listItem"> <span class="listItemText">TypeScript</span></li>
+    <li class="listItem"> <span class="listItemText">NestJS</span></li>
+    <li class="listItem"> <span class="listItemText">ExpressJS</span></li>
+    <li class="listItem"> <span class="listItemText">Redux</span></li>
+    <li class="listItem"> <span class="listItemText">Firebase</span></li>
+    <li class="listItem"> <span class="listItemText">Fastlane</span></li>
         </ul>
         </div>
         </div>
