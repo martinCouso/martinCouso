@@ -27,7 +27,7 @@
             justify-content: flex-start;
             width: 100%;
             max-width: 846px;
-            margin:0 auto;
+            margin:0;
             height: 3000px;
             /*animation: gradientBackground 10s ease infinite;*/
             color: white;
