@@ -32,7 +32,7 @@
             /*animation: gradientBackground 10s ease infinite;*/
             color: white;
             text-align: center;
-            padding: 50px;
+            padding: 50px 20px;
             background-color:  #000000;
             background-image: url("http://localhost:3000/images/bg.png");
             background-size: 50vw 500px;
