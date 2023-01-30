@@ -274,6 +274,8 @@
               -webkit-text-fill-color: transparent;
               font-size: 50px;
               margin-bottom: 15px;
+              height: 50px;
+              filter: contrast(0) sepia(100%) hue-rotate(155deg) brightness(1.4) saturate(0.28);
           }
           
           .techLabel {
@@ -395,11 +397,12 @@
               My Soft Skills:
             </p>
             <div class="cardBodyTags">
-              <div class="tag"><span>Leader</span></div>
-<div class="tag"><span>Friendly</span></div>
-<div class="tag"><span>Team Player</span></div>
-<div class="tag"><span>Mentor</span></div>
-<div class="tag"><span>Good listener</span></div>
+              <div class="tag"><span>leader</span></div>
+<div class="tag"><span>team player</span></div>
+<div class="tag"><span>mentor</span></div>
+<div class="tag"><span>good listener</span></div>
+<div class="tag"><span>meticulous</span></div>
+<div class="tag"><span>fast learner</span></div>
 
             </div>
           </div>
@@ -426,39 +429,43 @@
             </p>
             <div class="listTech">
               <div class="techContainer">
-                      <i class="devicon-redux-original techIcon"></i>
-                      <span class="listItemText">Redux</span>
-                    </div>
-<div class="techContainer">
-                      <i class="devicon-react-original techIcon"></i>
+                      <img class="techIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
                       <span class="listItemText">ReactJs</span>
                     </div>
 <div class="techContainer">
-                      <i class="devicon-react-original techIcon"></i>
+                      <img class="techIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
                       <span class="listItemText">React Native</span>
                     </div>
 <div class="techContainer">
-                      <i class="devicon-nestjs-plain techIcon"></i>
+                      <img class="techIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
                       <span class="listItemText">NestJS</span>
                     </div>
 <div class="techContainer">
-                      <i class="devicon-express-original techIcon"></i>
+                      <img class="techIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
                       <span class="listItemText">ExpressJS</span>
                     </div>
 <div class="techContainer">
-                      <i class="devicon-nextjs-original techIcon"></i>
+                      <img class="techIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
                       <span class="listItemText">NextJS</span>
                     </div>
 <div class="techContainer">
-                      <i class="devicon-mongodb-plain techIcon"></i>
-                      <span class="listItemText">MongoDB</span>
+                      <img class="techIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+                      <span class="listItemText">Laravel</span>
                     </div>
 <div class="techContainer">
-                      <i class="devicon-devicon-plain techIcon"></i>
+                      <img class="techIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+                      <span class="listItemText">Redux</span>
+                    </div>
+<div class="techContainer">
+                      <img class="techIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-plain.svg" />
                       <span class="listItemText">TypeORM</span>
                     </div>
 <div class="techContainer">
-                      <i class="devicon-firebase-plain techIcon"></i>
+                      <img class="techIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
+                      <span class="listItemText">MongoDB</span>
+                    </div>
+<div class="techContainer">
+                      <img class="techIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
                       <span class="listItemText">Firebase</span>
                     </div>
 
@@ -481,8 +488,7 @@
             <div class="cardBodyTags">
              <div class="tag"><span>Axlot SRL</span></div>
 <div class="tag"><span>Snappler</span></div>
-<div class="tag"><span>Lidi</span></div>
-<div class="tag"><span>BlueByte</span></div>
+<div class="tag"><span>BlueBit</span></div>
 <div class="tag"><span>Utopyk</span></div>
 <div class="tag"><span>Buoy</span></div>
 <div class="tag"><span>Stride NYC</span></div>
@@ -514,51 +520,51 @@
             </p>
             <div class="listTech">
               <div class="techContainer">
-                      <i class="devicon-javascript-plain techIcon"></i>
+                      <img class="techIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
                       <span class="listItemText">
                         Javascript
                       </span>
                     </div>
 <div class="techContainer">
-                      <i class="devicon-php-plain techIcon"></i>
-                      <span class="listItemText">
-                        PHP
-                      </span>
-                    </div>
-<div class="techContainer">
-                      <i class="devicon-graphql-plain techIcon"></i>
+                      <img class="techIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
                       <span class="listItemText">
                         GraphQL
                       </span>
                     </div>
 <div class="techContainer">
-                      <i class="devicon-typescript-plain techIcon"></i>
+                      <img class="techIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
                       <span class="listItemText">
-                        TypeScript
+                        PHP
                       </span>
                     </div>
 <div class="techContainer">
-                      <i class="devicon-html5-plain techIcon"></i>
-                      <span class="listItemText">
-                        HTML
-                      </span>
-                    </div>
-<div class="techContainer">
-                      <i class="devicon-mysql-plain techIcon"></i>
+                      <img class="techIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
                       <span class="listItemText">
                         MySQL
                       </span>
                     </div>
 <div class="techContainer">
-                      <i class="evicon-css3-plain techIcon"></i>
+                      <img class="techIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+                      <span class="listItemText">
+                        HTML
+                      </span>
+                    </div>
+<div class="techContainer">
+                      <img class="techIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
                       <span class="listItemText">
                         CSS
                       </span>
                     </div>
 <div class="techContainer">
-                      <i class="devicon-mongodb-plain techIcon"></i>
+                      <img class="techIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
                       <span class="listItemText">
                         NoSQL
+                      </span>
+                    </div>
+<div class="techContainer">
+                      <img class="techIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+                      <span class="listItemText">
+                        TypeScript
                       </span>
                     </div>
 
