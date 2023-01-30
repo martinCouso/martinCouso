@@ -203,6 +203,7 @@
           }
           .cardIcon {
               margin-right: 10px;
+              filter: contrast(0) sepia(100%) hue-rotate(116deg) brightness(1.4) saturate(0.28);
           }
           
           .list, .listTech {
@@ -263,7 +264,8 @@
               border-style: solid;
               border-color: transparent;
               /* offset-x | offset-y | blur-radius | spread-radius | color */
-          
+              box-shadow: -1px 33px 25px -25px rgb(221 24 162 / 29%);
+              background-color: #00000029;
               transition: all 500ms;
           }
           
@@ -332,7 +334,6 @@
         </h1>
         <h2 class="subtitle">
           I am a <span class="developerType">Sr React Native Developer</span>
-          developer
         </h2>
         <div class="intro">
           <h3 class="introTitle">A little about me:</h3>
@@ -397,12 +398,12 @@
               My Soft Skills:
             </p>
             <div class="cardBodyTags">
-              <div class="tag"><span>leader</span></div>
-<div class="tag"><span>team player</span></div>
-<div class="tag"><span>mentor</span></div>
-<div class="tag"><span>good listener</span></div>
+              <div class="tag"><span>Leadership</span></div>
+<div class="tag"><span>Team Player</span></div>
+<div class="tag"><span>Good listener</span></div>
 <div class="tag"><span>meticulous</span></div>
 <div class="tag"><span>fast learner</span></div>
+<div class="tag"><span>Mentor</span></div>
 
             </div>
           </div>
@@ -429,43 +430,30 @@
             </p>
             <div class="listTech">
               <div class="techContainer">
-                      <img class="techIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
                       <span class="listItemText">ReactJs</span>
                     </div>
 <div class="techContainer">
-                      <img class="techIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
                       <span class="listItemText">React Native</span>
                     </div>
 <div class="techContainer">
-                      <img class="techIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
                       <span class="listItemText">NestJS</span>
                     </div>
 <div class="techContainer">
-                      <img class="techIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
                       <span class="listItemText">ExpressJS</span>
                     </div>
 <div class="techContainer">
-                      <img class="techIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-                      <span class="listItemText">NextJS</span>
-                    </div>
-<div class="techContainer">
-                      <img class="techIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
                       <span class="listItemText">Laravel</span>
                     </div>
 <div class="techContainer">
-                      <img class="techIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
                       <span class="listItemText">Redux</span>
                     </div>
 <div class="techContainer">
-                      <img class="techIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-plain.svg" />
                       <span class="listItemText">TypeORM</span>
                     </div>
 <div class="techContainer">
-                      <img class="techIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
                       <span class="listItemText">MongoDB</span>
                     </div>
 <div class="techContainer">
-                      <img class="techIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
                       <span class="listItemText">Firebase</span>
                     </div>
 
@@ -489,8 +477,8 @@
              <div class="tag"><span>Axlot SRL</span></div>
 <div class="tag"><span>Snappler</span></div>
 <div class="tag"><span>BlueBit</span></div>
-<div class="tag"><span>Utopyk</span></div>
 <div class="tag"><span>Buoy</span></div>
+<div class="tag"><span>Utopyk</span></div>
 <div class="tag"><span>Stride NYC</span></div>
 <div class="tag"><span>Mouri Tech</span></div>
 <div class="tag"><span>Equinox</span></div>
@@ -520,51 +508,38 @@
             </p>
             <div class="listTech">
               <div class="techContainer">
-                      <img class="techIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
                       <span class="listItemText">
                         Javascript
                       </span>
                     </div>
 <div class="techContainer">
-                      <img class="techIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+                      <span class="listItemText">
+                        TypeScript
+                      </span>
+                    </div>
+<div class="techContainer">
                       <span class="listItemText">
                         GraphQL
                       </span>
                     </div>
 <div class="techContainer">
-                      <img class="techIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-                      <span class="listItemText">
-                        PHP
-                      </span>
-                    </div>
-<div class="techContainer">
-                      <img class="techIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-                      <span class="listItemText">
-                        MySQL
-                      </span>
-                    </div>
-<div class="techContainer">
-                      <img class="techIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-                      <span class="listItemText">
-                        HTML
-                      </span>
-                    </div>
-<div class="techContainer">
-                      <img class="techIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-                      <span class="listItemText">
-                        CSS
-                      </span>
-                    </div>
-<div class="techContainer">
-                      <img class="techIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
                       <span class="listItemText">
                         NoSQL
                       </span>
                     </div>
 <div class="techContainer">
-                      <img class="techIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
                       <span class="listItemText">
-                        TypeScript
+                        MySQL
+                      </span>
+                    </div>
+<div class="techContainer">
+                      <span class="listItemText">
+                        HTML
+                      </span>
+                    </div>
+<div class="techContainer">
+                      <span class="listItemText">
+                        CSS
                       </span>
                     </div>
 
