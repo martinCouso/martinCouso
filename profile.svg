@@ -1,5 +1,5 @@
 <svg fill="none" viewBox="0 0 4000px 100%" width="100%" height="4000px" xmlns="http://www.w3.org/2000/svg" style="max-width: 846px; min-height:4000px">
-    <foreignObject width="100%" height="100%">
+   <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
           <style data-styled="true" data-styled-version="5.3.6">.bAEoBD{font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial, sans-serif,'Apple Color Emoji','Segoe UI Emoji';display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:start;-webkit-justify-content:flex-start;-ms-flex-pack:start;justify-content:flex-start;max-width:846px;min-height:3000px;-webkit-animation:gradientBackground 10s ease infinite;animation:gradientBackground 10s ease infinite;color:white;text-align:center;padding:50px 18px;background:rgb(24,24,24);background:radial-gradient(circle,rgba(2,0,36,1) 0%,rgb(54,5,92) 35%,rgb(13,12,12) 100%);background-size:600% 400%;}/*!sc*/
 @-webkit-keyframes gradientBackground{0 %{background-position:0% 50%;}50%{background-position:100% 50%;}100%{background-position:0% 50%;}}/*!sc*/
